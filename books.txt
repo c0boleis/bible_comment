@@ -1,0 +1,2 @@
+book=/home/bata/livres/bible
+comment=/home/bata/bible_workspace/comment/tre
